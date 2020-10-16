@@ -1,16 +1,7 @@
 # news_app1
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It's News Flutter Mobile Application using APIs with these features:  
+1-User can navigate between different news categories 
+2-Display news according to chosen category 
+3-Display detail screen for news selected 
+4-Update news response every 10 seconds in background (Background activity not timer) 6.News API Link: "https://newsapi.org/"
